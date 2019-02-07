@@ -1,0 +1,1 @@
+is amazon.com open?
